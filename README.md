@@ -17,7 +17,7 @@
 
 <h3 align="left">Currently working with</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,py,cpp,bash,linux,git,vim,flask,mongodb,html,css,js&theme=dark&perline=10)](https://github.com/anirudh-os)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,py,cpp,bash,arch,linux,git,neovim,flask,mongodb,express,react,nodejs,html,css,js&theme=dark&perline=10)](https://github.com/anirudh-os)
 
 #
 
