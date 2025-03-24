@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Anirudh Sripada Koundinya</h1>
 
-<img align="right" width="32%" alt="Coding" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
-
 - Curious programmer exploring the world of low-level software and cyber security.
 - Passionate about operating systems, Rust, C, and all things terminal.
 - Currently diving into binary exploitation, reverse engineering, and CTFs.
