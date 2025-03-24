@@ -26,11 +26,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anirudh-os&border_radius=10&show_icons=true&count_private=true&hide=prs&theme=radical" alt="anirudh-os" />
 </div>
 
-<h3 align="center">GitHub Streak</h3>
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=anirudh-os&theme=radical&border_radius=10&fire=DD2727" alt="anirudh-os" />
-</div>
-
 <h3 align="center">Top Languages</h3>
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-os&layout=compact&theme=radical" alt="anirudh-os" />
