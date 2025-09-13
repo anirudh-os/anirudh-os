@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Anirudh Sripada Koundinya</h1>
 
-- Curious programmer exploring the world of low-level software and cyber security.
+- Curious programmer exploring the world of low-level software and systems.
 - Passionate about operating systems, Rust, C, and all things terminal.
-- Currently diving into binary exploitation, reverse engineering, and CTFs.
+- Currently diving into distributed systems and databases.
 - I enjoy solving problems through code, especially in competitive programming.
 - Pursuing Computer Science and Engineering at PES University, Bengaluru.
 
