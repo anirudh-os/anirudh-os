@@ -15,20 +15,9 @@
 
 #
 
-<h3 align="left">Currently working with</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=rust,c,py,cpp,bash,arch,linux,git,neovim,flask,mongodb,express,react,nodejs,html,css,js&theme=dark&perline=10)](https://github.com/anirudh-os)
-
-#
-
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anirudh-os&border_radius=10&show_icons=true&count_private=true&hide=prs&theme=radical" alt="anirudh-os" />
-</div>
-
-<h3 align="center">Top Languages</h3>
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-os&layout=compact&theme=radical" alt="anirudh-os" />
 </div>
 
 #
